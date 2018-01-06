@@ -1,0 +1,18 @@
+"canal_dip"
+{
+"dsp" "1"
+"playlooping"
+{
+  "volume"  "8"
+  "wave"  "ambient/water/drip_loop1.wav"
+}
+}
+"vmod_city_battle9"
+{
+"dsp" "1"
+"playlooping"
+{
+  "volume"  "6"
+  "wave"  "ambient/wind/wasteland_wind.wav"
+}
+}

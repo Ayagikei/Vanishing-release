@@ -1,0 +1,5 @@
+"LightmappedGeneric" {
+    "$basetexture"  "plaster\mc\glass"
+	"$vertexalpha" 1
+
+}

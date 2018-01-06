@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/czombies/art_facemap10"
+	"$bumpmap"	"models/czombies/art_facemap10_norm"
+}

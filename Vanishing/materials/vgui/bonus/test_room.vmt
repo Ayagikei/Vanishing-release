@@ -1,0 +1,6 @@
+"UnlitGeneric"
+
+{
+	"$basetexture" "vgui/bonus/test_room"
+	"$vertexalpha" 1
+}

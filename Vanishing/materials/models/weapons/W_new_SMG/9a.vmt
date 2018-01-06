@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\weapons\V_new_SMG\9a"
+	"$surfaceprop"	"Metal"
+	"$bumpmap" "models\weapons\V_new_SMG\9a_normal"
+	"$halflambert" 	"1" 
+	"$model" "1"
+	"$phong" "1"
+	"$phongboost" ".5"
+	"$phongexponent" "50"
+	"$phongalbedotint" "1"								
+	"$phongfresnelranges"	"[1 3 6]"
+}

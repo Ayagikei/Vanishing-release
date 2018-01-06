@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/czombies/custom_csheet5_facemap"
+	//	"$bumpmap" "models/czombies/custom_csheet5_facemap_norm"
+	"$nodecal" "0"
+}

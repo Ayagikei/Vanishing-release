@@ -1,0 +1,18 @@
+"prision4_water_dip"
+{
+"dsp" "0"
+"playlooping"
+{
+  "volume"  "0.6"
+  "wave"  "ambient/water/drip_loop1.wav"      
+} 
+}
+"prision4_soundsacpes_indoor"
+{
+"dsp" "0"
+"playlooping"
+{
+  "volume"  "0.5"
+  "wave"  "ambient/atmosphere/indoor2.wav"      
+} 
+}

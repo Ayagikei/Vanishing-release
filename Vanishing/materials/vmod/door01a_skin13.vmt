@@ -1,0 +1,5 @@
+"vertexlitGeneric"
+{
+	"$baseTexture" "vmod/door01a_skin13"
+	"$surfaceprop" "metal"
+}

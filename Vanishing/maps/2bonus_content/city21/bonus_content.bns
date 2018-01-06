@@ -1,0 +1,37 @@
+
+
+"#lq_building"
+{
+	"map"		"lq_building"
+	"image"		"bonus/lq_city21/building"
+	"comment"	"#lq_building_desc"
+                "lock"          "0"
+}
+
+"#lq_trainstation"
+{
+	"map"		"lq_trainstation"
+	"image"		"bonus/lq_city21/trainstation"
+	"comment"	"#lq_trainstation_desc"
+                "lock"          "0"
+}
+
+"#lq_port"
+{
+	"map"		"lq_port"
+	"image"		"bonus/lq_city21/port"
+	"comment"	"#lq_port_desc"
+                "lock"          "0"
+}
+
+"#lq_city21_after"
+{
+	"map"		"lq_city21_after"
+	"image"		"bonus/lq_city21/after"
+	"comment"	"#lq_city21_after_desc"
+                "lock"          "0"
+}
+
+
+
+

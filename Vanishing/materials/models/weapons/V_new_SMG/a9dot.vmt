@@ -1,0 +1,10 @@
+"Unlittwotexture"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models\weapons\V_new_SMG\a9dot"
+	"$texture2"	"models\weapons\V_new_SMG\noise"
+	"$additive" 1
+	"$model" 1
+	//"$envmap" "env_cubemap"
+	//"$envmaptint" "[ 0.6 0.6 0.6 ]"	
+}

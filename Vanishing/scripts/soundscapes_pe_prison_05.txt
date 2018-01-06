@@ -1,0 +1,10 @@
+"pipe_pri5_loop"
+{
+"dsp" "0"
+"playlooping"
+{
+  "volume"  "0.5"
+  "wave"  "ambient/levels/canals/tunnel_wind_loop1.wav"      
+} 
+}
+

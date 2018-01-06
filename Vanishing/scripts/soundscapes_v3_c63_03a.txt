@@ -1,0 +1,9 @@
+"room_fire_loop"
+{
+"dsp" "0"
+"playlooping"
+{
+  "volume"  "0.9"
+  "wave"  "ambient/fire/fire_med_loop1.wav"
+}
+}

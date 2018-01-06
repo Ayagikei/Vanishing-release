@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/CITADEL_METALWALL091A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/lq_city21_after/c-2016_384_-2432"
+	}
+}

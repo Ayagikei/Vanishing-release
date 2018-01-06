@@ -1,0 +1,5 @@
+"vertexlitGeneric"
+{
+	"$baseTexture" "vmod/metalladder003"
+	"$surfaceprop" "metal"
+}

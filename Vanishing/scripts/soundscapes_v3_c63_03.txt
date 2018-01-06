@@ -1,0 +1,9 @@
+"c63_03_str_sound.loop"
+{
+"dsp" "0"
+"playlooping"
+{
+  "volume"  "0.7"
+  "wave"  "ambient/wind/wasteland_wind.wav"
+}
+}

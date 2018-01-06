@@ -1,0 +1,27 @@
+"c63_zombie_sound"
+{
+"dsp" "0"
+"playlooping"
+{
+  "volume"  "0.2"
+  "wave"  "ambient/creatures/town_zombie_call1.wav"      
+} 
+}
+"c63_wind"
+{
+"dsp" "0"
+"playlooping"
+{
+  "volume"  "0.9"
+  "wave"  "ambient/wind/wasteland_wind.wav"      
+} 
+}
+"c63_train"
+{
+"dsp" "0"
+"playlooping"
+{
+  "volume"  "0.3"
+  "wave"  "ambient/alarms/train_horn_distant1.wav"      
+} 
+}

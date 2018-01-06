@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/glass/glasswindowbreak070b.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/lq_city21_after/c-256_512_128"
+		"Proxies"
+		{
+		}
+	}
+}

@@ -1,0 +1,93 @@
+//Adrian: This file contains the credits info for both the Intro and outro.
+"credits.txt"
+{
+
+//========================================================
+//These are the names used in the intro (trainride)
+//========================================================
+"IntroCreditsNames"
+{
+	"V"	"WeaponIcons"
+	" "	"CreditsText"
+	" "	"CreditsText"
+}
+
+"CreditsParams"
+{
+	"logo" "Vanishing Mod'"
+	"logo2" "== DEMO ver.=="
+
+	"fadeintime"	"2.5"
+	"fadeouttime"	"1"
+	"fadeholdtime"	"1.0"
+	"nextfadetime"	"1.0"
+	"pausebetweenwaves" "1.0"
+	"logotime" "1.0"
+	"posx"	"96"
+	"posy"	"360"
+
+	"color" "255 255 255 128"
+
+	// Outro Parameters
+	"scrolltime" "80"
+	"separation"  "10"
+}
+
+//========================================================
+//These are the names used in the outro (outland_12a)
+//========================================================
+"OutroCreditsNames"
+{
+	"Vanishing Mod'" "ClientTitleFont"
+	"== DEMO ver.==" "ClientTitleFont"
+	" "	"CreditsOutroText"
+	"Z"	"CreditsChineseLogos"
+	" "	"CreditsOutroText"
+	"ab:" "CreditsChineseText"
+	"hth (kazahouri)" "CreditsOutroText"
+	" "	"CreditsOutroText"
+	"Mod23,HI:" "CreditsChineseText"
+	"hth (kazahouri)" "CreditsOutroText"
+	" "	"CreditsOutroText"
+	"c0i1:" "CreditsChineseText"
+	"env107" "CreditsOutroText"
+	" "	"CreditsOutroText"
+	"ef,ghi1:" "CreditsChineseText"
+	"00912" "CreditsOutroText"
+	"hth (kazahouri)" "CreditsOutroText"
+	" "	"CreditsOutroText"
+	"45:" "CreditsChineseText"
+	"Supergunner2" "CreditsOutroText"
+	"MgH" "CreditsOutroText"
+	"env107" "CreditsOutroText"
+	"Jiong Lao LI" "CreditsOutroText"
+	"JianDan" "CreditsOutroText"
+	"Noble 6" "CreditsOutroText"
+	"hth (kazahouri)" "CreditsOutroText"
+	" "	"CreditsOutroText"
+	"6789:" "CreditsChineseText"
+	"MgH" "CreditsOutroText"
+	"headcrabbed" "CreditsOutroText"
+
+	"Special thanks to everyone at:"   "CreditsOutroText"
+	"Alienware"   "CreditsOutroText"
+	"ATI"   "CreditsOutroText"
+	"Dell"   "CreditsOutroText"
+	"Falcon Northwest"   "CreditsOutroText"
+	"Havok"   "CreditsOutroText"
+	"SOFTIMAGE"   "CreditsOutroText"
+	" "	"CreditsOutroText"
+	" "	"CreditsOutroText"
+	" "	"CreditsOutroText"
+	" "	"CreditsOutroText"
+	" "	"CreditsOutroText"
+	" "	"CreditsOutroText"
+	" "	"CreditsOutroText"
+	" "	"CreditsOutroText"
+	" "	"CreditsOutroText"
+	"@"	"CreditsOutroLogos"
+}
+
+
+
+}

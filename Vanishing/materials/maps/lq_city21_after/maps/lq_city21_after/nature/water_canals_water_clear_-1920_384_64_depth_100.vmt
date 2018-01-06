@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/maps/lq_city21_after/nature/water_canals_water_clear_-1920_384_64.vmt"
+	"insert"
+	{
+		"$waterdepth"		"100"
+	}
+}

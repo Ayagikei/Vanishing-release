@@ -1,0 +1,19 @@
+"c63_02_str_sound.loop"
+{
+"dsp" "0"
+"playlooping"
+{
+  "volume"  "0.8"
+  "wave"  "ambient/wind/wasteland_wind.wav"      
+} 
+}
+"c63_02_pipe_room_loop"
+{
+"dsp" "0"
+"playlooping"
+{
+  "volume"  "0.6"
+  "wave"  "ambient/levels/canals/water_rivulet_loop2.wav"      
+} 
+}
+

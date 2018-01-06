@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/czombies/ct_sas1"
+	//	"$bumpmap" "models/czombies/ct_sas1_norm"
+	"$envmap" "dev/envmap"
+	"$envmapcontrast" "1"
+	"$envmaptint" "[.3 .3 .3]"
+	"$nocull" "1"
+}

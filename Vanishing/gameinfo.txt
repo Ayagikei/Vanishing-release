@@ -1,0 +1,51 @@
+"GameInfo"
+{
+	game 		"Vanishing"
+	title 		""
+
+
+	type		singleplayer_only
+	icon		"resource/icon"
+	developer		"Vanishing Team"
+	developer_url	""
+
+
+ 	gamelogo 1
+
+FileSystem
+{
+	SteamAppId					243730				// Source SDK Base 2013 Singleplayer
+	SearchPaths
+	{
+		// No /custom/ folders because they can interfere with mod content and shouldn't be in mod gameinfo.
+		game+mod+mod_write+default_write_path	|gameinfo_path|.		// Mod
+		gamebin				|gameinfo_path|bin		// Mod's Binaries
+ 
+		// Using SSDKBase13 path, then back to /common/ and then using Portal folder. 
+		// |all_source_engine_paths| magic help here too.
+		game					|all_source_engine_paths|ep2/ep2_english.vpk
+		game					|all_source_engine_paths|ep2/ep2_pak.vpk		
+ 
+		// Base Half-Life 2 Content: ep2, episodic, hl2
+		game_lv					|all_source_engine_paths|hl2/hl2_lv.vpk
+		game					|all_source_engine_paths|ep2/ep2_english.vpk
+		game					|all_source_engine_paths|ep2/ep2_pak.vpk
+		game					|all_source_engine_paths|episodic/ep1_english.vpk
+		game					|all_source_engine_paths|episodic/ep1_pak.vpk
+		game					|all_source_engine_paths|hl2/hl2_english.vpk
+		game					|all_source_engine_paths|hl2/hl2_pak.vpk
+		game					|all_source_engine_paths|hl2/hl2_textures.vpk
+		game					|all_source_engine_paths|hl2/hl2_sound_vo_english.vpk
+		game					|all_source_engine_paths|hl2/hl2_sound_misc.vpk
+		game					|all_source_engine_paths|hl2/hl2_misc.vpk
+		platform				|all_source_engine_paths|platform/platform_misc.vpk
+ 
+		// Find loose files that are not in the vpk's
+		game					|all_source_engine_paths|episodic
+		game					|all_source_engine_paths|hl2
+		platform				|all_source_engine_paths|platform
+	}
+}
+	
+	
+}

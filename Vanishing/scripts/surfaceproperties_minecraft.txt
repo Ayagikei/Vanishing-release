@@ -1,0 +1,324 @@
+
+// Custom surface properties for Minecraft textures.
+
+//            - Hl2-sound version -
+
+"Mcloth"
+{
+	"base"			"Mdirt"
+	"density"		"500"
+	"elasticity"	"0.01"
+	"friction"		"0.8"
+	
+	"stepleft"		"Carpet.Impact"
+	"stepright"		"Carpet.Impact"
+	"bulletimpact"	"Carpet.BulletImpact"
+	"impacthard"	"Carpet.Impact"
+	"impactsoft"	"Carpet.Impact"
+
+	"audioreflectivity" 	"0.03"
+	"audiohardnessfactor" 	"0.4"
+	"audioroughnessfactor" 	"0.1"
+
+	"gamematerial"	"O"
+}
+
+
+"Mdirt"
+{
+	"density"		"1600"
+	"elasticity"	"0.01"
+	"friction"		"0.8"
+
+	"stepleft"		"Dirt.StepLeft"
+	"stepright"		"Dirt.StepRight"
+	"bulletimpact"	"Dirt.BulletImpact"
+	"impacthard"	"StepLeft"
+	"impactsoft"	"StepRight"
+	"scraperough"	"Dirt.Scrape"
+
+	"audioreflectivity" 	"0.03"
+	"audiohardnessfactor" 	"0.75"
+
+	"gamematerial"	"D"
+}
+
+
+"Mflesh"
+{
+	"density"	"900"
+
+	"stepleft"		"Flesh.StepLeft"
+	"stepright"		"Flesh.StepRight"
+	"bulletimpact"	"Flesh.BulletImpact"
+	"impacthard"	"Flesh.ImpactHard"
+	"impactsoft"	"Flesh.ImpactSoft"
+	"scraperough"	"Flesh.ScrapeRough"
+	"scrapesmooth"	"Flesh.ScrapeSmooth"
+
+	"audiohardnessfactor" "0.25"
+	"audioHardMinVelocity" "500"
+	"audioroughnessfactor" "0.1"
+
+	"gamematerial"	"F"
+}
+
+
+"Mfoliage"
+{
+	"base"			"Mgrass"
+	"density"		"600"
+	"elasticity"	"0.1"
+	"friction"		"0.8"
+
+	"stepleft"		"Grass.StepLeft"
+	"stepright"		"Grass.StepRight"
+	"bulletimpact"	"Grass.StepLeft"
+	"impacthard"	"Grass.StepRight"
+	"impactsoft"	"Grass.StepLeft"
+
+	"gamematerial"	"O"
+}
+
+
+"Mglass"
+{
+	"density"		"2700"
+	"elasticity"	"0.2"
+	"friction"		"0.5"
+
+	"stepleft"		"Glass.StepLeft"
+	"stepright"		"Glass.StepRight"
+	"scraperough"	"Glass.ScrapeRough"
+	"scrapesmooth"	"Glass.ScrapeSmooth"
+	"impacthard"	"Glass.ImpactHard"
+	"impactsoft"	"Glass.ImpactSoft"
+	"bulletimpact"	"Glass.BulletImpact"
+//	"break"			"MC.Glass.Break"
+
+	"audioreflectivity" 	"0.66"
+	"audiohardnessfactor" 	"1.0"
+	"audioroughnessfactor" 	"0.0"
+
+	"gamematerial"	"Y"
+}
+
+
+"Mgrass"
+{
+	"base"		"Mdirt"
+
+	"stepleft"		"Grass.StepLeft"
+	"stepright"		"Grass.StepRight"
+	"bulletimpact"	"Grass.StepLeft"
+//	"impacthard"	"MC.Grass"
+//	"impactsoft"	"MC.Grass"
+	
+	"gamematerial"	"O"
+}
+
+
+"Mgravel"
+{
+	"base"		"Mdirt"
+	"friction"	"0.8"
+	
+	"stepleft"		"Gravel.StepLeft"
+	"stepright"		"Gravel.StepRight"
+	"bulletimpact"	"Gravel.StepLeft"
+	"impacthard"	"Gravel.StepLeft"
+	"impactsoft"	"Gravel.StepRight"
+
+	"gamematerial"	"O"
+}
+
+
+"Mice"
+{
+	"density"		"900"
+	"friction"		"0.1"
+	"elasticity"	"0.1"
+
+	"audioroughnessfactor" "0.1"
+	"gamematerial"	"O"
+}
+
+
+"Mladder"
+{
+	"base"		"Mwood"
+	"climbable"	"1.0"
+
+	"stepleft"	"Wood.StepLeft"
+	"stepright"	"Wood.StepRight"
+
+	"audioreflectivity" "0.33"
+
+	"gamematerial" "W"
+}
+
+
+"Mmetal"
+{
+	"density"			"2700"
+	"elasticity"		"0.1"
+	"audioreflectivity" "0.83"
+	"friction"			"0.8"
+	
+	"stepleft"		"SolidMetal.StepLeft"
+	"stepright"		"SolidMetal.StepRight"
+	"impacthard"	"SolidMetal.ImpactHard"
+	"impactsoft"	"SolidMetal.ImpactSoft"
+	"scraperough"	"SolidMetal.ScrapeRough"
+	"scrapesmooth"	"SolidMetal.ScrapeSmooth"
+	"bulletimpact"	"SolidMetal.BulletImpact"
+
+	"gamematerial"	"M"
+}
+
+
+"Mpumpkin"
+{
+	"density"		"800"
+	"bulletimpact"	"Watermelon.BulletImpact"
+	"impacthard"	"Watermelon.Impact"
+	"scraperough"	"Watermelon.Scrape"
+
+	"audiohardnessfactor" "0.25"
+	"audioroughnessfactor" "0.1"
+
+	"gamematerial"	"W"
+}
+
+
+"Mrock"
+{
+	"density"		"2400"
+	"elasticity"	"0.2"
+	"friction"		"0.8"
+
+	"stepleft"		"Concrete.StepLeft"
+	"stepright"		"Concrete.StepRight"
+	"bulletimpact"	"Rock.ImpactHard"
+	"impacthard"	"Rock.ImpactHard"
+	"impactsoft"	"Rock.ImpactSoft"
+//	"scraperough"	"Rock.ImpactHard"
+//	"scrapesmooth"	"Rock.ImpactSoft"
+
+	"audioreflectivity" "0.66"
+	
+	"gamematerial"	"C"
+}
+
+
+"Msand"
+{
+	"base"			"Mdirt"
+	
+	"stepleft"		"Sand.StepLeft"
+	"stepright"		"Sand.StepRight"
+	"bulletimpact"	"Sand.BulletImpact"
+	"impacthard"	"Sand.BulletImpact"
+	"impactsoft"	"Sand.BulletImpact"
+
+	"audioreflectivity" "0.03"
+
+	"gamematerial"	"O"
+}
+
+
+"Mslime"
+{
+	"density"	"500"
+	"elasticity" "0.1"
+	"friction"	"0.5"
+	"dampening"	 "200.0"
+	"jumpfactor" "0.8"
+
+	"stepleft"	 "SlipperySlime.StepLeft"
+	"stepright"	 "SlipperySlime.StepRight"
+	"bulletimpact"	"SlipperySlime.StepRight"
+	"impactsoft"	"SlipperySlime.StepLeft"
+	"impacthard"	"SlipperySlime.StepRight"
+
+	"audioreflectivity" "0.33"
+	"audiohardnessfactor" "0.0"
+	"audioroughnessfactor" "0.1"
+
+	"gamematerial"	"S"
+}
+
+
+"Msnow"
+{
+	"base"		"Mdirt"
+	"density"	"800"
+	"friction"	"0.35"
+	
+//	"stepleft"		"MC.Snow"
+//	"stepright"		"MC.Snow"
+//	"bulletimpact"	"MC.Snow"
+//	"impacthard"	"MC.Snow"
+//	"impactsoft"	"MC.Snow"
+
+	"audiohardnessfactor" "0.25"
+
+	"gamematerial"	"O"
+}
+
+
+"Msoulsand"
+{
+	"base"			"Mdirt"
+	"dampening"	 "200.0"
+	"jumpfactor" "0.8"
+	
+	"stepleft"		"Sand.StepLeft"
+	"stepright"		"Sand.StepRight"
+	"bulletimpact"	"Sand.BulletImpact"
+	"impacthard"	"Sand.BulletImpact"
+	"impactsoft"	"Sand.BulletImpact"
+
+	"audioreflectivity" "0.03"
+
+	"gamematerial"	"O"
+}
+
+
+"Mwater"
+{
+	"density"		"800"
+	"elasticity"	"0.01"
+	"friction"		"0.7"
+
+	"stepleft"		"Water.StepLeft"
+	"stepright"		"Water.StepRight"
+	"bulletimpact"	"Water.BulletImpact"
+	"impacthard" 	"Water.ImpactHard"
+	"impactsoft" 	"Water.ImpactSoft"
+
+	"audioreflectivity" 	"0.33"
+	"audioroughnessfactor" 	"0.1"
+	"audiohardnessfactor" 	"0.0"
+}
+
+
+"Mwood"	
+{
+	"density"		"300"
+	"elasticity"	"0.1"
+	"friction"		"0.8"
+
+	"stepleft"		"Wood.StepLeft"
+	"stepright"		"Wood.StepRight"
+	"impacthard"	"Wood.ImpactHard"
+	"impactsoft"	"Wood.ImpactSoft"
+	"bulletimpact"	"Wood.BulletImpact"
+	"scraperough"	"Wood.ScrapeRough"
+	"scrapesmooth"	"Wood.ScrapeSmooth"
+
+	"audioreflectivity" 	"0.33"
+	"audiohardnessfactor" 	"0.75"
+
+//	"gamematerial"	"W"
+}

@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/zombie_classic/zombie_classic_sheet"
+	"$nocull" "1"
+}

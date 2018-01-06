@@ -1,0 +1,16 @@
+"UnlitGeneric"
+{
+	"$basetexture" "effects/Arrow"
+	$translucent 1
+        "Proxies" 
+        { 
+        "AnimatedTexture" 
+        { 
+        "animatedTextureVar" "$basetexture" 
+        "animatedTextureFrameNumVar" "$frame" 
+        "animatedTextureFrameRate" "10" 
+        }
+        }
+        "$surfaceprop" "metal"
+        "$frame" "24"
+}

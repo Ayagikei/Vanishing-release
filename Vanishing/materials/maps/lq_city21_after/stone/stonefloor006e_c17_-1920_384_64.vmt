@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/STONE/STONEFLOOR006E_C17.vmt"
+	"replace"
+	{
+		"LightmappedGeneric_DX9"
+		{
+			"$envmap"		"maps/lq_city21_after/c-1920_384_64"
+		}
+	}
+}

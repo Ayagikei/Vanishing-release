@@ -1,0 +1,9 @@
+"prision2_water_dip"
+{
+"dsp" "0"
+"playlooping"
+{
+  "volume"  "0.6"
+  "wave"  "ambient/water/drip_loop1.wav"      
+} 
+}

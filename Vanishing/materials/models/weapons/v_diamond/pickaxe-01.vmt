@@ -1,0 +1,4 @@
+"vertexlitgeneric" {
+    "$basetexture" "models/weapons/v_diamond\pickaxe-01"
+    "$surfaceprop" "Mrock"
+}

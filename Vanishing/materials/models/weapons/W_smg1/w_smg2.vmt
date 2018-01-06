@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models/Weapons/W_smg1/w_smg2"
+	"$envmap" "env_cubemap"
+	//"$envmaptint" "[ 0.6 0.6 0.6 ]"
+	"$envmapmask" "Models/weapons/w_smg1/w_smg2specularmask"
+	"$envmapsaturation" .5
+	"$envmapcontrast" 1
+	"$normalmapalphaenvmapmask" 1
+
+	$phong 1
+        $phongexponent 85
+	$phongexponenttexture models\weapons\W_smg1\w_smg2
+	$phongboost	20
+	$phongfresnelranges	"[0.05 0.5 1]"
+	"$detail" "detail/weapons_detail"
+	"$detailscale" "2"
+}

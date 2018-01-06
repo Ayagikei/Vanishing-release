@@ -1,0 +1,26 @@
+
+
+"#Vanishingchapter1"
+{
+	"map"		"v0_prison_02.bsp"
+	"image"		"vanishing\chapter1"
+	"comment"	"#Vanishing_desc_chapter1"
+        "lock"          "0"
+}
+
+"#Vanishingchapter2"
+{
+	"map"		"v2_base_01.bsp"
+	"image"		"vanishing\chapter2"
+	"comment"	"#Vanishing_desc_chapter2"
+        "lock"          "0"
+}
+
+"#Vanishingchapter3"
+{
+	"map"		"v3_c63_01.bsp"
+	"image"		"vanishing\chapter3"
+	"comment"	"#Vanishing_desc_chapter3"
+        "lock"          "0"
+}
+

@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/czombies/custom_csheet2"
+	"$nocull" "1"
+}

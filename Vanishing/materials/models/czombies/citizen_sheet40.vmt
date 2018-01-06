@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/czombies/citizen_sheet40"
+	"$nocull" "1"
+}

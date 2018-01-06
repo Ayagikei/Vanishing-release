@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/NATURE/WATER_CANALS_WATER_CLEAR.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/lq_city21_after/c-1920_384_64"
+		"Proxies"
+		{
+		}
+	}
+}

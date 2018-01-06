@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/czombies/vance_service"
+	//	"$bumpmap" "models/czombies/vance_service_norm"
+	"$nodecal" "0"
+}
