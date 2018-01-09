@@ -611,6 +611,26 @@
 		"TextColor"	"255 170 0 220"
 		"PaintBackgroundType"	"2"
 	}
+    
+    HudTarget
+    {
+      "fieldName" "HudTarget"
+      "xpos" "r86"
+      "ypos" "6"
+      "wide" "80"
+      "tall" "60"
+      "visible" "0"
+      "enabled" "1"
+      
+      "PaintBackgroundType"   "2"
+    }
+    
+    HudPlayerSpeak
+    {
+      "fieldName" "HudPlayerSpeak"
+      "visible" "0"
+      "enabled" "1"
+    }
 
 	HudCredits
 	{
