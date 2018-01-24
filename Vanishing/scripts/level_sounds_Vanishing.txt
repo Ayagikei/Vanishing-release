@@ -1,175 +1,820 @@
 "Vanishing.v0_prison_02_00"
 {
-	"channel"		"CHAN_VOICE"
-	"volume"		"VOL_NORM"
-	"pitch"			"PITCH_NORM"
-
-	"soundlevel"	"SNDLVL_TALKING"
-
-	"wave"			"*vc/v0_prison_02_00.wav"
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v0_prison_02_00.wav" 
 }
 
 
 "Vanishing.v0_prison_02_01"
 {
-	"channel"		"CHAN_VOICE"
-	"volume"		"VOL_NORM"
-	"pitch"			"PITCH_NORM"
-
-	"soundlevel"	"SNDLVL_TALKING"
-
-	"wave"			"*vc/v0_prison_02_01.wav"
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v0_prison_02_01.wav" 
 }
+
 
 "Vanishing.v0_prison_02_02"
 {
-	"channel"		"CHAN_VOICE"
-	"volume"		"VOL_NORM"
-	"pitch"			"PITCH_NORM"
-
-	"soundlevel"	"SNDLVL_TALKING"
-
-	"wave"			"*vc/v0_prison_02_02.wav"
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v0_prison_02_02.wav" 
 }
+
+
+"Vanishing.v0_prison_02_02a"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v0_prison_02_02a.wav" 
+}
+
 
 "Vanishing.v0_prison_02_03"
 {
-	"channel"		"CHAN_VOICE"
-	"volume"		"VOL_NORM"
-	"pitch"			"PITCH_NORM"
-
-	"soundlevel"	"SNDLVL_TALKING"
-
-	"wave"			"*vc/v0_prison_02_03.wav"
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v0_prison_02_03.wav" 
 }
+
 
 "Vanishing.v0_prison_02_04"
 {
-	"channel"		"CHAN_VOICE"
-	"volume"		"VOL_NORM"
-	"pitch"			"PITCH_NORM"
-
-	"soundlevel"	"SNDLVL_TALKING"
-
-	"wave"			"*vc/v0_prison_02_04.wav"
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v0_prison_02_04.wav" 
 }
+
 
 "Vanishing.v0_prison_02_05"
 {
-	"channel"		"CHAN_VOICE"
-	"volume"		"VOL_NORM"
-	"pitch"			"PITCH_NORM"
-
-	"soundlevel"	"SNDLVL_TALKING"
-
-	"wave"			"*vc/v0_prison_02_05.wav"
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v0_prison_02_05.wav" 
 }
+
 
 "Vanishing.v0_prison_02_06"
 {
-	"channel"		"CHAN_VOICE"
-	"volume"		"VOL_NORM"
-	"pitch"			"PITCH_NORM"
-
-	"soundlevel"	"SNDLVL_TALKING"
-
-	"wave"			"*vc/v0_prison_02_06.wav"
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v0_prison_02_06.wav" 
 }
+
 
 "Vanishing.v0_prison_02_07"
 {
-	"channel"		"CHAN_VOICE"
-	"volume"		"VOL_NORM"
-	"pitch"			"PITCH_NORM"
-
-	"soundlevel"	"SNDLVL_TALKING"
-
-	"wave"			"*vc/v0_prison_02_07.wav"
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v0_prison_02_07.wav" 
 }
+
 
 "Vanishing.v0_prison_02_08"
 {
-	"channel"		"CHAN_VOICE"
-	"volume"		"VOL_NORM"
-	"pitch"			"PITCH_NORM"
-
-	"soundlevel"	"SNDLVL_TALKING"
-
-	"wave"			"*vc/v0_prison_02_08.wav"
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v0_prison_02_08.wav" 
 }
+
 
 "Vanishing.v0_prison_02_09"
 {
-	"channel"		"CHAN_VOICE"
-	"volume"		"VOL_NORM"
-	"pitch"			"PITCH_NORM"
-
-	"soundlevel"	"SNDLVL_TALKING"
-
-	"wave"			"*vc/v0_prison_02_09.wav"
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v0_prison_02_09.wav" 
 }
+
 
 "Vanishing.v0_prison_02_10"
 {
-	"channel"		"CHAN_VOICE"
-	"volume"		"VOL_NORM"
-	"pitch"			"PITCH_NORM"
-
-	"soundlevel"	"SNDLVL_TALKING"
-
-	"wave"			"*vc/v0_prison_02_10.wav"
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v0_prison_02_10.wav" 
 }
+
 
 "Vanishing.v0_prison_02_11"
 {
-	"channel"		"CHAN_VOICE"
-	"volume"		"VOL_NORM"
-	"pitch"			"PITCH_NORM"
-
-	"soundlevel"	"SNDLVL_TALKING"
-
-	"wave"			"*vc/v0_prison_02_11.wav"
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v0_prison_02_11.wav" 
 }
+
 
 "Vanishing.v0_prison_02_12"
 {
-	"channel"		"CHAN_VOICE"
-	"volume"		"VOL_NORM"
-	"pitch"			"PITCH_NORM"
-
-	"soundlevel"	"SNDLVL_TALKING"
-
-	"wave"			"*vc/v0_prison_02_12.wav"
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v0_prison_02_12.wav" 
 }
+
 
 "Vanishing.v0_prison_02_13"
 {
-	"channel"		"CHAN_VOICE"
-	"volume"		"VOL_NORM"
-	"pitch"			"PITCH_NORM"
-
-	"soundlevel"	"SNDLVL_TALKING"
-
-	"wave"			"*vc/v0_prison_02_13.wav"
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v0_prison_02_13.wav" 
 }
+
 
 "Vanishing.v0_prison_02_14"
 {
-	"channel"		"CHAN_VOICE"
-	"volume"		"VOL_NORM"
-	"pitch"			"PITCH_NORM"
-
-	"soundlevel"	"SNDLVL_TALKING"
-
-	"wave"			"*vc/v0_prison_02_14.wav"
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v0_prison_02_14.wav" 
 }
+
+
 "Vanishing.v0_prison_02_15"
 {
-	"channel"		"CHAN_VOICE"
-	"volume"		"VOL_NORM"
-	"pitch"			"PITCH_NORM"
-
-	"soundlevel"	"SNDLVL_TALKING"
-
-	"wave"			"*vc/v0_prison_02_15.wav"
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v0_prison_02_15.wav" 
 }
+
+
+"Vanishing.v0_prison_03_01"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v0_prison_03_01.wav" 
+}
+
+
+"Vanishing.v0_prison_03_02"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v0_prison_03_02.wav" 
+}
+
+
+"Vanishing.v0_prison_03_03"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v0_prison_03_03.wav" 
+}
+
+
+"Vanishing.v0_prison_03_04"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v0_prison_03_04.wav" 
+}
+
+
+"Vanishing.v0_prison_03_05"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v0_prison_03_05.wav" 
+}
+
+
+"Vanishing.v0_prison_03_06"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v0_prison_03_06.wav" 
+}
+
+
+"Vanishing.v0_prison_03_07"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v0_prison_03_07.wav" 
+}
+
+
+"Vanishing.v0_prison_03_08"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v0_prison_03_08.wav" 
+}
+
+
+"Vanishing.v1_prison_04_01"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v1_prison_04_01.wav" 
+}
+
+
+"Vanishing.v1_prison_04_02"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v1_prison_04_02.wav" 
+}
+
+
+"Vanishing.v1_prison_04_03"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v1_prison_04_03.wav" 
+}
+
+
+"Vanishing.v1_prison_04_04"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v1_prison_04_04.wav" 
+}
+
+
+"Vanishing.v1_prison_04_05"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v1_prison_04_05.wav" 
+}
+
+
+"Vanishing.v1_prison_04_06"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v1_prison_04_06.wav" 
+}
+
+
+"Vanishing.v1_prison_04_07"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v1_prison_04_07.wav" 
+}
+
+
+"Vanishing.v1_prison_05_01"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v1_prison_05_01.wav" 
+}
+
+
+"Vanishing.v1_prison_05_02"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v1_prison_05_02.wav" 
+}
+
+
+"Vanishing.v1_prison_05_03"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v1_prison_05_03.wav" 
+}
+
+
+"Vanishing.v1_prison_05_04"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v1_prison_05_04.wav" 
+}
+
+
+"Vanishing.v1_prison_05_05"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v1_prison_05_05.wav" 
+}
+
+
+"Vanishing.v2_base_01_01"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v2_base_01_01.wav" 
+}
+
+
+"Vanishing.v2_base_01_02"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v2_base_01_02.wav" 
+}
+
+
+"Vanishing.v2_base_01_03"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v2_base_01_03.wav" 
+}
+
+
+"Vanishing.v2_base_01_04"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v2_base_01_04.wav" 
+}
+
+
+"Vanishing.v2_base_01_05"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v2_base_01_05.wav" 
+}
+
+
+"Vanishing.v2_base_01_06"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v2_base_01_06.wav" 
+}
+
+
+"Vanishing.v2_base_01_07"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v2_base_01_07.wav" 
+}
+
+
+"Vanishing.v2_base_01_08"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v2_base_01_08.wav" 
+}
+
+
+"Vanishing.v2_base_01_09"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v2_base_01_09.wav" 
+}
+
+
+"Vanishing.v2_base_01_10"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v2_base_01_10.wav" 
+}
+
+
+"Vanishing.v2_base_01_11"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v2_base_01_11.wav" 
+}
+
+
+"Vanishing.v2_base_01_12"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v2_base_01_12.wav" 
+}
+
+
+"Vanishing.v2_base_01_13"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v2_base_01_13.wav" 
+}
+
+
+"Vanishing.v2_base_01_14"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v2_base_01_14.wav" 
+}
+
+
+"Vanishing.v2_base_02_01"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v2_base_02_01.wav" 
+}
+
+
+"Vanishing.v2_base_02_02"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v2_base_02_02.wav" 
+}
+
+
+"Vanishing.v2_base_02_03"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v2_base_02_03.wav" 
+}
+
+
+"Vanishing.v2_base_02_04"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v2_base_02_04.wav" 
+}
+
+
+"Vanishing.v2_base_02_05"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v2_base_02_05.wav" 
+}
+
+
+"Vanishing.v3_c63_01_01"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v3_c63_01_01.wav" 
+}
+
+
+"Vanishing.v3_c63_01_02"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v3_c63_01_02.wav" 
+}
+
+
+"Vanishing.v3_c63_02_01"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v3_c63_02_01.wav" 
+}
+
+
+"Vanishing.v3_c63_02_02"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v3_c63_02_02.wav" 
+}
+
+
+"Vanishing.v3_c63_03_01"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v3_c63_03_01.wav" 
+}
+
+
+"Vanishing.v3_c63_03_02"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v3_c63_03_02.wav" 
+}
+
+
+"Vanishing.v3_c63_03_03a_01"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v3_c63_03_03a_01.wav" 
+}
+
+
+"Vanishing.v3_c63_03_03a_02"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v3_c63_03_03a_02.wav" 
+}
+
+
+"Vanishing.v3_c63_03_03a_03"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v3_c63_03_03a_03.wav" 
+}
+
+
+"Vanishing.v3_c63_03_03a_04"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v3_c63_03_03a_04.wav" 
+}
+
+
+"Vanishing.v4_destruction_01a_01"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v4_destruction_01a_01.wav" 
+}
+
+
+"Vanishing.v4_destruction_01a_02"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v4_destruction_01a_02.wav" 
+}
+
+
+"Vanishing.v4_destruction_01b_01"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v4_destruction_01b_01.wav" 
+}
+
+
+"Vanishing.v4_destruction_03_01"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v4_destruction_03_01.wav" 
+}
+
+
+"Vanishing.v4_destruction_04_01"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v4_destruction_04_01.wav" 
+}
+
+
+"Vanishing.v5_choice_01_01"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v5_choice_01_01.wav" 
+}
+
+
+"Vanishing.v5_choice_01_02"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v5_choice_01_02.wav" 
+}
+
+
+"Vanishing.v5_choice_01_03"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v5_choice_01_03.wav" 
+}
+
+
+"Vanishing.v5_choice_02_01"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v5_choice_02_01.wav" 
+}
+
+
+"Vanishing.v5_choice_02_02"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v5_choice_02_02.wav" 
+}
+
+
+"Vanishing.v5_choice_02_03"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v5_choice_02_03.wav" 
+}
+
+
+"Vanishing.v5_choice_02_04"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v5_choice_02_04.wav" 
+}
+
+
+"Vanishing.v5_choice_02_05"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v5_choice_02_05.wav" 
+}
+
+
+"Vanishing.v5_choice_02_06"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v5_choice_02_06.wav" 
+}
+
+
+"Vanishing.v5_choice_02_07"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v5_choice_02_07.wav" 
+}
+
+
+"Vanishing.v5_choice_02_08"
+{
+		"channel"				"CHAN_VOICE"
+		"volume"				"VOL_NORM"
+		"pitch"				"PITCH_NORM"
+		"soundlevel"				"SNDLVL_TALKING"
+		"wave"				"*vc/v5_choice_02_08.wav" 
+}
+
+
