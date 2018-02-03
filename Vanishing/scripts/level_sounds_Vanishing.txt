@@ -618,7 +618,7 @@
 }
 
 
-"Vanishing.v3_c63_03_03a_01"
+"Vanishing.v3_c63_03a_01"
 {
 		"channel"				"CHAN_VOICE"
 		"volume"				"VOL_NORM"
@@ -628,7 +628,7 @@
 }
 
 
-"Vanishing.v3_c63_03_03a_02"
+"Vanishing.v3_c63_03a_02"
 {
 		"channel"				"CHAN_VOICE"
 		"volume"				"VOL_NORM"
@@ -638,7 +638,7 @@
 }
 
 
-"Vanishing.v3_c63_03_03a_03"
+"Vanishing.v3_c63_03a_03"
 {
 		"channel"				"CHAN_VOICE"
 		"volume"				"VOL_NORM"
@@ -648,7 +648,7 @@
 }
 
 
-"Vanishing.v3_c63_03_03a_04"
+"Vanishing.v3_c63_03a_04"
 {
 		"channel"				"CHAN_VOICE"
 		"volume"				"VOL_NORM"
