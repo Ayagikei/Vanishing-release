@@ -818,3 +818,13 @@
 }
 
 
+"song_newChapter"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"0.7"
+	"pitch"			"100"
+
+	"soundlevel"	"0"
+
+	"wave"			"*#music/hl2_ambient_1.wav"	
+}
